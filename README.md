@@ -14,7 +14,8 @@ Objetivo//
 Desenvolver um Media Player Web capaz de oferecer uma experiência simples para o usuário explorar e reproduzir conteúdos musicais utilizando recursos disponibilizados pelo Spotify. Desenvolver um sistema
 de geração de Playlist baseado no gosto do usuário, por meio de um algoritmo próprio.
 
-Funcionalidades planejadas
+Funcionalidades planejadas//
+
 - Visualização de músicas
 - Consulta de artistas
 - Consulta de álbuns
