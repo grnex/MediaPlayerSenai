@@ -39,4 +39,4 @@ Git e GitHub
 Status//
 
 Este projeto está sendo desenvolvido gradualmente durante as aulas e poderá receber novas funcionalidades ao longo do desenvolvimento. 
-Participantes do projeto - Ashlee / Gustavo R. / Pedro / Roxany
+Participantes do projeto - Ashlee / Gustavo R. [@grnex](https://github.com/grnex) / Pedro [@phz9ra](https://github.com/phz9ra) / Roxany
